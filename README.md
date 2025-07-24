@@ -57,7 +57,8 @@ sales_dw_project/
 4. **ETL Process**  (etl/connect_and_load_to_mysql.ipynb)
    - Dùng SQLAlchemy + pandas để nạp dữ liệu từ CSV vào MySQL
    - Viết notebook/script ETL để insert dữ liệu vào các bảng
-
+5. **SQL Queries**
+   - Thực hiện các câu truy vấn về số lượng đơn hàng, doanh thu, ...
 ---
 ## Kết quả và Ý nghĩa
    - Chuẩn hóa và làm sạch dữ liệu đầu vào, đảm bảo tính nhất quán và chính xác.
